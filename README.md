@@ -10,7 +10,7 @@
 # 활동
 * **스마트IOT -> 빅데이터전공 전과**
   - 2020.01
-* **[에이블](http://the-able.kr) 인턴**
+* **단기산학현장실습 [에이블](http://the-able.kr) 인턴**
   - 기간 : 2019.07 ~ 2019.08
 
 # 프로젝트
@@ -57,22 +57,32 @@
 `창의코딩파이썬 프로젝트`
 
 - 바탕화면 변경 프로그램
-
 **Github** : [2019_01_Creative-Coding-with-Python](https://github.com/ChangHyun-S/2019_01_Creative-Coding-with-Python)
 
 `윈도우프로그래밍 프로젝트`
 
 - 바탕화면 변경 프로그램
-
 **Github** : [2019_01_Window-Programming](https://github.com/ChangHyun-S/2019_01_-Window-Programming)
 
 `임베디드시스템 프로젝트`
 
 - 도서관 좌석 관리 프로그램
-
 **Github** : [2019_02_Embedded-System](https://github.com/ChangHyun-S/2019_02_Embedded-System)
 
+`시스템보안 프로젝트`
+
+- 리버스 엔지니어링 프로젝트
+**Github** : [2020_01_System-Security](https://github.com/ChangHyun-S/2020_01_System-Security)
+
+`딥러닝 프로젝트`
+
+- Pytorch, CNN 강아지 고양이 사진 분류
+**Github** : [Dog_Cat_Classification](https://github.com/ChangHyun-S/Dog_Cat_Classification)
+
+- Pytorch, CNN 강아지 품종 분류
+**Github** : [Dog_Breed_Classification](https://github.com/ChangHyun-S/Dog_Breed_Classification)
+
 # 보유 기술
-  - 언어 : Java, Python, C++
+  - 언어 : C, C++, C#, Java, Python
   - 데이터베이스 : MySQL, SQLite3
   - 운영체제 : CentOS, Redhat, Ubuntu
